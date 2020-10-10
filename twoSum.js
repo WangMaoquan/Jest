@@ -2,4 +2,5 @@ function twoSum(a, b) {
   return a + b;
 }
 
-module.exports = twoSum;
+// module.exports = twoSum;
+export default twoSum;
